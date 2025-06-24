@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "786014555497",
+    "project_id": "plantaeproject-f4a8c",
+    "storage_bucket": "plantaeproject-f4a8c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786014555497:android:0752f3d8d6ced7221101f8",
+        "android_client_info": {
+          "package_name": "com.example.plantae_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-qmL9HFzklt45_VEPGZ5V5yZuP1ahUj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
